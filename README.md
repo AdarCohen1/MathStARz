@@ -35,15 +35,27 @@
 
 📸 Game Screenshots
 1. AR World Exploration
+
 <img width="563" height="280" alt="image" src="https://github.com/user-attachments/assets/3c907183-4b57-4e91-b838-ad0dd0922844" />
+
 Students explore an interactive AR world with NPCs, wooden bridges, and objects that appear after scanning geometric shapes.
 
+2. Main Menu & Leaderboard
 
-<img width="588" height="274" alt="image" src="https://github.com/user-attachments/assets/40fdddf2-59f9-4a39-837d-7b8ffea1613b" />
+<img width="580" height="264" alt="image" src="https://github.com/user-attachments/assets/119d63cf-34e5-4224-8a3a-f435a0b97c1d" />
 
+A multilingual main menu displaying leaderboards, player scores, sound settings, and language selection.
+
+3. Geometry Question Example
 
 
 <img width="549" height="278" alt="image" src="https://github.com/user-attachments/assets/44bdc13f-00f0-4bf8-a0f8-f952f3dba741" />
+
+
+Students answer interactive geometry-related multiple-choice questions, such as calculating the volume of a cube.
+
+<img width="588" height="274" alt="image" src="https://github.com/user-attachments/assets/40fdddf2-59f9-4a39-837d-7b8ffea1613b" />
+
 
 
 
