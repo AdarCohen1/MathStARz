@@ -54,13 +54,24 @@ A multilingual main menu displaying leaderboards, player scores, sound settings,
 
 Students answer interactive geometry-related multiple-choice questions, such as calculating the volume of a cube.
 
-<img width="588" height="274" alt="image" src="https://github.com/user-attachments/assets/40fdddf2-59f9-4a39-837d-7b8ffea1613b" />
-
-
-
+4. Teacher Admin Panel – Add Student
 
 <img width="560" height="266" alt="image" src="https://github.com/user-attachments/assets/d3dae97c-d86f-47a5-8f4d-c06060c48139" />
 
 
-<img width="580" height="264" alt="image" src="https://github.com/user-attachments/assets/119d63cf-34e5-4224-8a3a-f435a0b97c1d" />
+Teachers and admins can register new students directly through the admin panel.
+
+5. Puzzle Progress Tracking
+
+<img width="588" height="274" alt="image" src="https://github.com/user-attachments/assets/40fdddf2-59f9-4a39-837d-7b8ffea1613b" />
+
+Correct answers unlock puzzle pieces, allowing students to visually track their progress.
+
+
+
+
+
+
+
+
 
