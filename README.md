@@ -32,3 +32,23 @@
 ## 🗃️ Tech Stack
 
 ### Unity (Frontend)
+
+📸 Game Screenshots
+1. AR World Exploration
+<img width="563" height="280" alt="image" src="https://github.com/user-attachments/assets/3c907183-4b57-4e91-b838-ad0dd0922844" />
+Students explore an interactive AR world with NPCs, wooden bridges, and objects that appear after scanning geometric shapes.
+
+
+<img width="588" height="274" alt="image" src="https://github.com/user-attachments/assets/40fdddf2-59f9-4a39-837d-7b8ffea1613b" />
+
+
+
+<img width="549" height="278" alt="image" src="https://github.com/user-attachments/assets/44bdc13f-00f0-4bf8-a0f8-f952f3dba741" />
+
+
+
+<img width="560" height="266" alt="image" src="https://github.com/user-attachments/assets/d3dae97c-d86f-47a5-8f4d-c06060c48139" />
+
+
+<img width="580" height="264" alt="image" src="https://github.com/user-attachments/assets/119d63cf-34e5-4224-8a3a-f435a0b97c1d" />
+
