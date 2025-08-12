@@ -34,7 +34,7 @@
 ### Unity (Frontend)
 
 📸 Game Screenshots
-1. AR World Exploration
+1. AR / 3D World Exploration (can choose if you want 3D or AR world)
 
 <img width="1039" height="623" alt="image" src="https://github.com/user-attachments/assets/3a1fa675-c122-436c-8136-82ce0d05abe9" />
 
