@@ -36,7 +36,8 @@
 📸 Game Screenshots
 1. AR World Exploration
 
-<img width="563" height="280" alt="image" src="https://github.com/user-attachments/assets/3c907183-4b57-4e91-b838-ad0dd0922844" />
+<img width="1039" height="623" alt="image" src="https://github.com/user-attachments/assets/3a1fa675-c122-436c-8136-82ce0d05abe9" />
+
 
 Students explore an interactive AR world with NPCs, wooden bridges, and objects that appear after scanning geometric shapes.
 
