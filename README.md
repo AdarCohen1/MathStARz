@@ -64,7 +64,7 @@ Teachers and admins can register new students directly through the admin panel.
 
 5. Puzzle Progress Tracking
 
-<img width="588" height="274" alt="image" src="https://github.com/user-attachments/assets/40fdddf2-59f9-4a39-837d-7b8ffea1613b" />
+<img width="1038" height="499" alt="image" src="https://github.com/user-attachments/assets/88d66a6c-bfd3-4b02-8082-4251c60a384e" />
 
 Correct answers unlock puzzle pieces, allowing students to visually track their progress.
 
