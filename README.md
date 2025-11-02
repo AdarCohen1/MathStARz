@@ -14,7 +14,7 @@
 
 ### 🔷 Unity (Frontend)
 - 📱 **AR interaction** using Vuforia.
-- 👤 **Multilingual support**: English + Hebrew (with RTL UI handling).
+- 👤 **Multilingual support**: English + Hebrew.
 - 🗨️ **Dialog system** for NPC interactions.
 - ❓ **Open and Multiple Choice Questions** with dynamic UI.
 - 🧩 **Puzzle progress tracking** per student.
@@ -36,7 +36,7 @@
 📸 Game Screenshots
 1. AR / 3D World Exploration (can choose if you want 3D or AR world)
 
-<img width="1039" height="623" alt="image" src="https://github.com/user-attachments/assets/3a1fa675-c122-436c-8136-82ce0d05abe9" />
+![final project 3D world](https://github.com/user-attachments/assets/2e75ffd8-53f2-48e8-8a77-c6b3f18f5cf8)
 
 
 Students explore an interactive AR world with NPCs, wooden bridges, and objects that appear after scanning geometric shapes.
